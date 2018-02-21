@@ -5,6 +5,7 @@
       <mapping pattern="processArgv" type="JavaScript" />
       <mapping pattern="fileOpen" type="JavaScript" />
       <mapping pattern="AsyncFileopen" type="JavaScript" />
+      <mapping pattern="tutorialNode" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="Web2Py" />
     </extensionMap>

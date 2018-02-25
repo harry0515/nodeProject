@@ -6,7 +6,9 @@
       <mapping pattern="fileOpen" type="JavaScript" />
       <mapping pattern="AsyncFileopen" type="JavaScript" />
       <mapping pattern="tutorialNode" type="PLAIN_TEXT" />
+      <mapping pattern="stackAlternatePop.py" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping pattern="stackAlternatePop" type="Python" />
       <mapping ext="tpl" type="Web2Py" />
     </extensionMap>
   </component>
